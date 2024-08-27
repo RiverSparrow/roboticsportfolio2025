@@ -1,4 +1,5 @@
-# Meena Lingutla's Robotics Portfolio 2024-25
+# Meena Lingutla's Robotics Portfolio 2024-25|Documentation Specialist and ELectrical Assistant|
+* Keeps detailed records of the design process, decisions, and progress.
 Student at Skyline High School. Projected graduation date in 2028. 
 
 *Proficient in Logo
